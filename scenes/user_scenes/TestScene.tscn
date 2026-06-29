@@ -1,0 +1,53 @@
+[gd_scene format=3 uid="uid://u4xarregbrq0"]
+
+[ext_resource type="PackedScene" uid="uid://ddr2ui5icadjw" path="res://scenes/ui_components/FloatingPanel.tscn" id="1_vho1n"]
+[ext_resource type="PackedScene" uid="uid://boivgftqk2wq4" path="res://scenes/ui_components/DrawBox.tscn" id="2_cks4k"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_xe8is"]
+bg_color = Color(0.05882353, 0.09019608, 0.16470589, 1)
+
+[node name="Control" type="Control" unique_id=1627581636]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="Panel" parent="." unique_id=609887661]
+z_index = -50
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_xe8is")
+
+[node name="FloatingPanel" parent="." unique_id=2056841838 instance=ExtResource("1_vho1n")]
+layout_mode = 0
+offset_left = 405.0
+offset_top = 160.0
+offset_right = 1021.0
+offset_bottom = 487.0
+
+[node name="Label" type="Label" parent="FloatingPanel" unique_id=110948529]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+offset_transform_position = Vector2(0, 57.595)
+theme_override_font_sizes/font_size = 38
+text = "This is SuperKana"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="DrawBox" parent="." unique_id=107649633 instance=ExtResource("2_cks4k")]
+layout_mode = 1
+offset_left = 143.0
+offset_top = 74.0
+offset_right = -497.0
+offset_bottom = -62.0
+erase_size = 16

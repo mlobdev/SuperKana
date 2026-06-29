@@ -1,0 +1,1179 @@
+{
+  "kata_a": {
+	"type": "katakana",
+	"char": "ア",
+	"romaji": [
+      "a"
+	],
+	"tags": [
+	  "gojuon",
+      "a_row"
+	]
+  },
+  "kata_i": {
+	"type": "katakana",
+	"char": "イ",
+	"romaji": [
+      "i"
+	],
+	"tags": [
+	  "gojuon",
+      "a_row"
+	]
+  },
+  "kata_u": {
+	"type": "katakana",
+	"char": "ウ",
+	"romaji": [
+      "u"
+	],
+	"tags": [
+	  "gojuon",
+      "a_row"
+	]
+  },
+  "kata_e": {
+	"type": "katakana",
+	"char": "エ",
+	"romaji": [
+      "e"
+	],
+	"tags": [
+	  "gojuon",
+      "a_row"
+	]
+  },
+  "kata_o": {
+	"type": "katakana",
+	"char": "オ",
+	"romaji": [
+      "o"
+	],
+	"tags": [
+	  "gojuon",
+      "a_row"
+	]
+  },
+  "kata_ka": {
+	"type": "katakana",
+	"char": "カ",
+	"romaji": [
+      "ka"
+	],
+	"tags": [
+	  "gojuon",
+      "k_row"
+	]
+  },
+  "kata_ki": {
+	"type": "katakana",
+	"char": "キ",
+	"romaji": [
+      "ki"
+	],
+	"tags": [
+	  "gojuon",
+      "k_row"
+	]
+  },
+  "kata_ku": {
+	"type": "katakana",
+	"char": "ク",
+	"romaji": [
+      "ku"
+	],
+	"tags": [
+	  "gojuon",
+      "k_row"
+	]
+  },
+  "kata_ke": {
+	"type": "katakana",
+	"char": "ケ",
+	"romaji": [
+      "ke"
+	],
+	"tags": [
+	  "gojuon",
+      "k_row"
+	]
+  },
+  "kata_ko": {
+	"type": "katakana",
+	"char": "コ",
+	"romaji": [
+      "ko"
+	],
+	"tags": [
+	  "gojuon",
+      "k_row"
+	]
+  },
+  "kata_sa": {
+	"type": "katakana",
+	"char": "サ",
+	"romaji": [
+      "sa"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "kata_shi": {
+	"type": "katakana",
+	"char": "シ",
+	"romaji": [
+	  "shi",
+      "si"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "kata_su": {
+	"type": "katakana",
+	"char": "ス",
+	"romaji": [
+      "su"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "kata_se": {
+	"type": "katakana",
+	"char": "セ",
+	"romaji": [
+      "se"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "kata_so": {
+	"type": "katakana",
+	"char": "ソ",
+	"romaji": [
+      "so"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "kata_ta": {
+	"type": "katakana",
+	"char": "タ",
+	"romaji": [
+      "ta"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "kata_chi": {
+	"type": "katakana",
+	"char": "チ",
+	"romaji": [
+	  "chi",
+      "ti"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "kata_tsu": {
+	"type": "katakana",
+	"char": "ツ",
+	"romaji": [
+	  "tsu",
+      "tu"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "kata_te": {
+	"type": "katakana",
+	"char": "テ",
+	"romaji": [
+      "te"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "kata_to": {
+	"type": "katakana",
+	"char": "ト",
+	"romaji": [
+      "to"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "kata_na": {
+	"type": "katakana",
+	"char": "ナ",
+	"romaji": [
+      "na"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "kata_ni": {
+	"type": "katakana",
+	"char": "ニ",
+	"romaji": [
+      "ni"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "kata_nu": {
+	"type": "katakana",
+	"char": "ヌ",
+	"romaji": [
+      "nu"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "kata_ne": {
+	"type": "katakana",
+	"char": "ネ",
+	"romaji": [
+      "ne"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "kata_no": {
+	"type": "katakana",
+	"char": "ノ",
+	"romaji": [
+      "no"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "kata_ha": {
+	"type": "katakana",
+	"char": "ハ",
+	"romaji": [
+      "ha"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "kata_hi": {
+	"type": "katakana",
+	"char": "ヒ",
+	"romaji": [
+      "hi"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "kata_fu": {
+	"type": "katakana",
+	"char": "フ",
+	"romaji": [
+	  "fu",
+      "hu"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "kata_he": {
+	"type": "katakana",
+	"char": "ヘ",
+	"romaji": [
+      "he"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "kata_ho": {
+	"type": "katakana",
+	"char": "ホ",
+	"romaji": [
+      "ho"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "kata_ma": {
+	"type": "katakana",
+	"char": "マ",
+	"romaji": [
+      "ma"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "kata_mi": {
+	"type": "katakana",
+	"char": "ミ",
+	"romaji": [
+      "mi"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "kata_mu": {
+	"type": "katakana",
+	"char": "ム",
+	"romaji": [
+      "mu"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "kata_me": {
+	"type": "katakana",
+	"char": "メ",
+	"romaji": [
+      "me"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "kata_mo": {
+	"type": "katakana",
+	"char": "モ",
+	"romaji": [
+      "mo"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "kata_ya": {
+	"type": "katakana",
+	"char": "ヤ",
+	"romaji": [
+      "ya"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "kata_yu": {
+	"type": "katakana",
+	"char": "ユ",
+	"romaji": [
+      "yu"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "kata_yo": {
+	"type": "katakana",
+	"char": "ヨ",
+	"romaji": [
+      "yo"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "kata_ra": {
+	"type": "katakana",
+	"char": "ラ",
+	"romaji": [
+      "ra"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "kata_ri": {
+	"type": "katakana",
+	"char": "リ",
+	"romaji": [
+      "ri"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "kata_ru": {
+	"type": "katakana",
+	"char": "ル",
+	"romaji": [
+      "ru"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "kata_re": {
+	"type": "katakana",
+	"char": "レ",
+	"romaji": [
+      "re"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "kata_ro": {
+	"type": "katakana",
+	"char": "ロ",
+	"romaji": [
+      "ro"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "kata_wa": {
+	"type": "katakana",
+	"char": "ワ",
+	"romaji": [
+      "wa"
+	],
+	"tags": [
+	  "gojuon",
+      "w_row"
+	]
+  },
+  "kata_wo": {
+	"type": "katakana",
+	"char": "ヲ",
+	"romaji": [
+	  "wo",
+      "o"
+	],
+	"tags": [
+	  "gojuon",
+      "w_row"
+	]
+  },
+  "kata_n": {
+	"type": "katakana",
+	"char": "ン",
+	"romaji": [
+	  "n",
+      "nn"
+	],
+	"tags": [
+	  "gojuon",
+      "n_singular"
+	]
+  },
+  "kata_ga": {
+	"type": "katakana",
+	"char": "ガ",
+	"romaji": [
+      "ga"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_gi": {
+	"type": "katakana",
+	"char": "ギ",
+	"romaji": [
+      "gi"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_gu": {
+	"type": "katakana",
+	"char": "グ",
+	"romaji": [
+      "gu"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_ge": {
+	"type": "katakana",
+	"char": "ゲ",
+	"romaji": [
+      "ge"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_go": {
+	"type": "katakana",
+	"char": "ゴ",
+	"romaji": [
+      "go"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_za": {
+	"type": "katakana",
+	"char": "ザ",
+	"romaji": [
+      "za"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_ji_z": {
+	"type": "katakana",
+	"char": "ジ",
+	"romaji": [
+	  "ji",
+      "zi"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_zu_z": {
+	"type": "katakana",
+	"char": "ズ",
+	"romaji": [
+      "zu"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_ze": {
+	"type": "katakana",
+	"char": "ゼ",
+	"romaji": [
+      "ze"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_zo": {
+	"type": "katakana",
+	"char": "ゾ",
+	"romaji": [
+      "zo"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_da": {
+	"type": "katakana",
+	"char": "ダ",
+	"romaji": [
+      "da"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "kata_ji_d": {
+	"type": "katakana",
+	"char": "ヂ",
+	"romaji": [
+	  "ji",
+      "di"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "kata_zu_d": {
+	"type": "katakana",
+	"char": "ヅ",
+	"romaji": [
+	  "zu",
+      "du"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "kata_de": {
+	"type": "katakana",
+	"char": "デ",
+	"romaji": [
+      "de"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "kata_do": {
+	"type": "katakana",
+	"char": "ド",
+	"romaji": [
+      "do"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "kata_ba": {
+	"type": "katakana",
+	"char": "バ",
+	"romaji": [
+      "ba"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_bi": {
+	"type": "katakana",
+	"char": "ビ",
+	"romaji": [
+      "bi"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_bu": {
+	"type": "katakana",
+	"char": "ブ",
+	"romaji": [
+      "bu"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_be": {
+	"type": "katakana",
+	"char": "ベ",
+	"romaji": [
+      "be"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_bo": {
+	"type": "katakana",
+	"char": "ボ",
+	"romaji": [
+      "bo"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_pa": {
+	"type": "katakana",
+	"char": "パ",
+	"romaji": [
+      "pa"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_pi": {
+	"type": "katakana",
+	"char": "ピ",
+	"romaji": [
+      "pi"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_pu": {
+	"type": "katakana",
+	"char": "プ",
+	"romaji": [
+      "pu"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_pe": {
+	"type": "katakana",
+	"char": "ペ",
+	"romaji": [
+      "pe"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_po": {
+	"type": "katakana",
+	"char": "ポ",
+	"romaji": [
+      "po"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_kya": {
+	"type": "katakana",
+	"char": "キャ",
+	"romaji": [
+      "kya"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "kata_kyu": {
+	"type": "katakana",
+	"char": "キュ",
+	"romaji": [
+      "kyu"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "kata_kyo": {
+	"type": "katakana",
+	"char": "キョ",
+	"romaji": [
+      "kyo"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "kata_sha": {
+	"type": "katakana",
+	"char": "シャ",
+	"romaji": [
+	  "sha",
+      "sya"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "kata_shu": {
+	"type": "katakana",
+	"char": "シュ",
+	"romaji": [
+	  "shu",
+      "syu"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "kata_sho": {
+	"type": "katakana",
+	"char": "ショ",
+	"romaji": [
+	  "sho",
+      "syo"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "kata_cha": {
+	"type": "katakana",
+	"char": "チャ",
+	"romaji": [
+	  "cha",
+      "tya"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "kata_chu": {
+	"type": "katakana",
+	"char": "チュ",
+	"romaji": [
+	  "chu",
+      "tyu"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "kata_cho": {
+	"type": "katakana",
+	"char": "チョ",
+	"romaji": [
+	  "cho",
+      "tyo"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "kata_nya": {
+	"type": "katakana",
+	"char": "ニャ",
+	"romaji": [
+      "nya"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "kata_nyu": {
+	"type": "katakana",
+	"char": "ニュ",
+	"romaji": [
+      "nyu"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "kata_nyo": {
+	"type": "katakana",
+	"char": "ニョ",
+	"romaji": [
+      "nyo"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "kata_hya": {
+	"type": "katakana",
+	"char": "ヒャ",
+	"romaji": [
+      "hya"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "kata_hyu": {
+	"type": "katakana",
+	"char": "ヒュ",
+	"romaji": [
+      "hyu"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "kata_hyo": {
+	"type": "katakana",
+	"char": "ヒョ",
+	"romaji": [
+      "hyo"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "kata_mya": {
+	"type": "katakana",
+	"char": "ミャ",
+	"romaji": [
+      "mya"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "kata_myu": {
+	"type": "katakana",
+	"char": "ミュ",
+	"romaji": [
+      "myu"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "kata_myo": {
+	"type": "katakana",
+	"char": "ミョ",
+	"romaji": [
+      "myo"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "kata_rya": {
+	"type": "katakana",
+	"char": "リャ",
+	"romaji": [
+      "rya"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "kata_ryu": {
+	"type": "katakana",
+	"char": "リュ",
+	"romaji": [
+      "ryu"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "kata_ryo": {
+	"type": "katakana",
+	"char": "リョ",
+	"romaji": [
+      "ryo"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "kata_gya": {
+	"type": "katakana",
+	"char": "ギャ",
+	"romaji": [
+      "gya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_gyu": {
+	"type": "katakana",
+	"char": "ギュ",
+	"romaji": [
+      "gyu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_gyo": {
+	"type": "katakana",
+	"char": "ギョ",
+	"romaji": [
+      "gyo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "kata_ja_z": {
+	"type": "katakana",
+	"char": "ジャ",
+	"romaji": [
+	  "ja",
+	  "zya",
+      "jya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_ju_z": {
+	"type": "katakana",
+	"char": "ジュ",
+	"romaji": [
+	  "ju",
+	  "zyu",
+      "jyu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_jo_z": {
+	"type": "katakana",
+	"char": "ジョ",
+	"romaji": [
+	  "jo",
+	  "zyo",
+      "jyo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "kata_bya": {
+	"type": "katakana",
+	"char": "ビャ",
+	"romaji": [
+      "bya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_byu": {
+	"type": "katakana",
+	"char": "ビュ",
+	"romaji": [
+      "byu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_byo": {
+	"type": "katakana",
+	"char": "ビョ",
+	"romaji": [
+      "byo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "kata_pya": {
+	"type": "katakana",
+	"char": "ピャ",
+	"romaji": [
+      "pya"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_pyu": {
+	"type": "katakana",
+	"char": "ピュ",
+	"romaji": [
+      "pyu"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "kata_pyo": {
+	"type": "katakana",
+	"char": "ピョ",
+	"romaji": [
+      "pyo"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  }
+}

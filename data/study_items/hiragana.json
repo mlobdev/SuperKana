@@ -1,0 +1,1179 @@
+	{
+	  "hira_a": {
+		"type": "hiragana",
+		"char": "あ",
+		"romaji": [
+	      "a"
+		],
+		"tags": [
+		  "gojuon",
+	      "a_row"
+		]
+	  },
+	  "hira_i": {
+		"type": "hiragana",
+		"char": "い",
+		"romaji": [
+	      "i"
+		],
+		"tags": [
+		  "gojuon",
+	      "a_row"
+		]
+	  },
+	  "hira_u": {
+		"type": "hiragana",
+		"char": "う",
+		"romaji": [
+	      "u"
+		],
+		"tags": [
+		  "gojuon",
+	      "a_row"
+		]
+	  },
+	  "hira_e": {
+		"type": "hiragana",
+		"char": "え",
+		"romaji": [
+	      "e"
+		],
+		"tags": [
+		  "gojuon",
+	      "a_row"
+		]
+	  },
+	  "hira_o": {
+		"type": "hiragana",
+		"char": "お",
+		"romaji": [
+	      "o"
+		],
+		"tags": [
+		  "gojuon",
+	      "a_row"
+		]
+	  },
+	  "hira_ka": {
+		"type": "hiragana",
+		"char": "か",
+		"romaji": [
+	      "ka"
+		],
+		"tags": [
+		  "gojuon",
+	      "k_row"
+		]
+	  },
+	  "hira_ki": {
+		"type": "hiragana",
+		"char": "き",
+		"romaji": [
+	      "ki"
+		],
+		"tags": [
+		  "gojuon",
+	      "k_row"
+		]
+	  },
+	  "hira_ku": {
+		"type": "hiragana",
+		"char": "く",
+		"romaji": [
+	      "ku"
+		],
+		"tags": [
+		  "gojuon",
+	      "k_row"
+		]
+	  },
+	  "hira_ke": {
+		"type": "hiragana",
+		"char": "け",
+		"romaji": [
+	      "ke"
+		],
+		"tags": [
+		  "gojuon",
+	      "k_row"
+		]
+	  },
+	  "hira_ko": {
+		"type": "hiragana",
+		"char": "こ",
+		"romaji": [
+	      "ko"
+		],
+		"tags": [
+		  "gojuon",
+	      "k_row"
+		]
+	  },
+	  "hira_sa": {
+		"type": "hiragana",
+		"char": "さ",
+		"romaji": [
+	      "sa"
+		],
+		"tags": [
+		  "gojuon",
+	      "s_row"
+		]
+	  },
+	  "hira_shi": {
+		"type": "hiragana",
+		"char": "し",
+		"romaji": [
+		  "shi",
+	      "si"
+		],
+		"tags": [
+		  "gojuon",
+	      "s_row"
+		]
+	  },
+	  "hira_su": {
+		"type": "hiragana",
+		"char": "す",
+		"romaji": [
+	      "su"
+		],
+		"tags": [
+		  "gojuon",
+	      "s_row"
+		]
+	  },
+	  "hira_se": {
+		"type": "hiragana",
+		"char": "せ",
+		"romaji": [
+	      "se"
+		],
+		"tags": [
+		  "gojuon",
+	      "s_row"
+		]
+  },
+  "hira_so": {
+	"type": "hiragana",
+	"char": "そ",
+	"romaji": [
+      "so"
+	],
+	"tags": [
+	  "gojuon",
+      "s_row"
+	]
+  },
+  "hira_ta": {
+	"type": "hiragana",
+	"char": "た",
+	"romaji": [
+      "ta"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "hira_chi": {
+	"type": "hiragana",
+	"char": "ち",
+	"romaji": [
+	  "chi",
+      "ti"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "hira_tsu": {
+	"type": "hiragana",
+	"char": "つ",
+	"romaji": [
+	  "tsu",
+      "tu"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "hira_te": {
+	"type": "hiragana",
+	"char": "て",
+	"romaji": [
+      "te"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "hira_to": {
+	"type": "hiragana",
+	"char": "と",
+	"romaji": [
+      "to"
+	],
+	"tags": [
+	  "gojuon",
+      "t_row"
+	]
+  },
+  "hira_na": {
+	"type": "hiragana",
+	"char": "な",
+	"romaji": [
+      "na"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "hira_ni": {
+	"type": "hiragana",
+	"char": "に",
+	"romaji": [
+      "ni"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "hira_nu": {
+	"type": "hiragana",
+	"char": "ぬ",
+	"romaji": [
+      "nu"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "hira_ne": {
+	"type": "hiragana",
+	"char": "ね",
+	"romaji": [
+      "ne"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "hira_no": {
+	"type": "hiragana",
+	"char": "の",
+	"romaji": [
+      "no"
+	],
+	"tags": [
+	  "gojuon",
+      "n_row"
+	]
+  },
+  "hira_ha": {
+	"type": "hiragana",
+	"char": "は",
+	"romaji": [
+      "ha"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "hira_hi": {
+	"type": "hiragana",
+	"char": "ひ",
+	"romaji": [
+      "hi"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "hira_fu": {
+	"type": "hiragana",
+	"char": "ふ",
+	"romaji": [
+	  "fu",
+      "hu"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "hira_he": {
+	"type": "hiragana",
+	"char": "へ",
+	"romaji": [
+      "he"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "hira_ho": {
+	"type": "hiragana",
+	"char": "ほ",
+	"romaji": [
+      "ho"
+	],
+	"tags": [
+	  "gojuon",
+      "h_row"
+	]
+  },
+  "hira_ma": {
+	"type": "hiragana",
+	"char": "ま",
+	"romaji": [
+      "ma"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "hira_mi": {
+	"type": "hiragana",
+	"char": "み",
+	"romaji": [
+      "mi"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "hira_mu": {
+	"type": "hiragana",
+	"char": "む",
+	"romaji": [
+      "mu"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "hira_me": {
+	"type": "hiragana",
+	"char": "め",
+	"romaji": [
+      "me"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "hira_mo": {
+	"type": "hiragana",
+	"char": "も",
+	"romaji": [
+      "mo"
+	],
+	"tags": [
+	  "gojuon",
+      "m_row"
+	]
+  },
+  "hira_ya": {
+	"type": "hiragana",
+	"char": "や",
+	"romaji": [
+      "ya"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "hira_yu": {
+	"type": "hiragana",
+	"char": "ゆ",
+	"romaji": [
+      "yu"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "hira_yo": {
+	"type": "hiragana",
+	"char": "よ",
+	"romaji": [
+      "yo"
+	],
+	"tags": [
+	  "gojuon",
+      "y_row"
+	]
+  },
+  "hira_ra": {
+	"type": "hiragana",
+	"char": "ら",
+	"romaji": [
+      "ra"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "hira_ri": {
+	"type": "hiragana",
+	"char": "り",
+	"romaji": [
+      "ri"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "hira_ru": {
+	"type": "hiragana",
+	"char": "る",
+	"romaji": [
+      "ru"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "hira_re": {
+	"type": "hiragana",
+	"char": "れ",
+	"romaji": [
+      "re"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "hira_ro": {
+	"type": "hiragana",
+	"char": "ろ",
+	"romaji": [
+      "ro"
+	],
+	"tags": [
+	  "gojuon",
+      "r_row"
+	]
+  },
+  "hira_wa": {
+	"type": "hiragana",
+	"char": "わ",
+	"romaji": [
+      "wa"
+	],
+	"tags": [
+	  "gojuon",
+      "w_row"
+	]
+  },
+  "hira_wo": {
+	"type": "hiragana",
+	"char": "を",
+	"romaji": [
+	  "wo",
+      "o"
+	],
+	"tags": [
+	  "gojuon",
+      "w_row"
+	]
+  },
+  "hira_n": {
+	"type": "hiragana",
+	"char": "ん",
+	"romaji": [
+	  "n",
+      "nn"
+	],
+	"tags": [
+	  "gojuon",
+      "n_singular"
+	]
+  },
+  "hira_ga": {
+	"type": "hiragana",
+	"char": "が",
+	"romaji": [
+      "ga"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_gi": {
+	"type": "hiragana",
+	"char": "ぎ",
+	"romaji": [
+      "gi"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_gu": {
+	"type": "hiragana",
+	"char": "ぐ",
+	"romaji": [
+      "gu"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_ge": {
+	"type": "hiragana",
+	"char": "げ",
+	"romaji": [
+      "ge"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_go": {
+	"type": "hiragana",
+	"char": "ご",
+	"romaji": [
+      "go"
+	],
+	"tags": [
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_za": {
+	"type": "hiragana",
+	"char": "ざ",
+	"romaji": [
+      "za"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_ji_z": {
+	"type": "hiragana",
+	"char": "じ",
+	"romaji": [
+	  "ji",
+      "zi"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_zu_z": {
+	"type": "hiragana",
+	"char": "ず",
+	"romaji": [
+      "zu"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_ze": {
+	"type": "hiragana",
+	"char": "ぜ",
+	"romaji": [
+      "ze"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_zo": {
+	"type": "hiragana",
+	"char": "ぞ",
+	"romaji": [
+      "zo"
+	],
+	"tags": [
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_da": {
+	"type": "hiragana",
+	"char": "だ",
+	"romaji": [
+      "da"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "hira_ji_d": {
+	"type": "hiragana",
+	"char": "ぢ",
+	"romaji": [
+	  "ji",
+      "di"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "hira_zu_d": {
+	"type": "hiragana",
+	"char": "づ",
+	"romaji": [
+	  "zu",
+      "du"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "hira_de": {
+	"type": "hiragana",
+	"char": "で",
+	"romaji": [
+      "de"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "hira_do": {
+	"type": "hiragana",
+	"char": "ど",
+	"romaji": [
+      "do"
+	],
+	"tags": [
+	  "dakuon",
+      "d_row"
+	]
+  },
+  "hira_ba": {
+	"type": "hiragana",
+	"char": "ば",
+	"romaji": [
+      "ba"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_bi": {
+	"type": "hiragana",
+	"char": "び",
+	"romaji": [
+      "bi"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_bu": {
+	"type": "hiragana",
+	"char": "ぶ",
+	"romaji": [
+      "bu"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_be": {
+	"type": "hiragana",
+	"char": "べ",
+	"romaji": [
+      "be"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_bo": {
+	"type": "hiragana",
+	"char": "ぼ",
+	"romaji": [
+      "bo"
+	],
+	"tags": [
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_pa": {
+	"type": "hiragana",
+	"char": "ぱ",
+	"romaji": [
+      "pa"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_pi": {
+	"type": "hiragana",
+	"char": "ぴ",
+	"romaji": [
+      "pi"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_pu": {
+	"type": "hiragana",
+	"char": "ぷ",
+	"romaji": [
+      "pu"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_pe": {
+	"type": "hiragana",
+	"char": "ぺ",
+	"romaji": [
+      "pe"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_po": {
+	"type": "hiragana",
+	"char": "ぽ",
+	"romaji": [
+      "po"
+	],
+	"tags": [
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_kya": {
+	"type": "hiragana",
+	"char": "きゃ",
+	"romaji": [
+      "kya"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "hira_kyu": {
+	"type": "hiragana",
+	"char": "きゅ",
+	"romaji": [
+      "kyu"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "hira_kyo": {
+	"type": "hiragana",
+	"char": "きょ",
+	"romaji": [
+      "kyo"
+	],
+	"tags": [
+	  "yoon",
+      "k_row"
+	]
+  },
+  "hira_sha": {
+	"type": "hiragana",
+	"char": "しゃ",
+	"romaji": [
+	  "sha",
+      "sya"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "hira_shu": {
+	"type": "hiragana",
+	"char": "しゅ",
+	"romaji": [
+	  "shu",
+      "syu"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "hira_sho": {
+	"type": "hiragana",
+	"char": "しょ",
+	"romaji": [
+	  "sho",
+      "syo"
+	],
+	"tags": [
+	  "yoon",
+      "s_row"
+	]
+  },
+  "hira_cha": {
+	"type": "hiragana",
+	"char": "ちゃ",
+	"romaji": [
+	  "cha",
+      "tya"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "hira_chu": {
+	"type": "hiragana",
+	"char": "ちゅ",
+	"romaji": [
+	  "chu",
+      "tyu"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "hira_cho": {
+	"type": "hiragana",
+	"char": "ちょ",
+	"romaji": [
+	  "cho",
+      "tyo"
+	],
+	"tags": [
+	  "yoon",
+      "t_row"
+	]
+  },
+  "hira_nya": {
+	"type": "hiragana",
+	"char": "にゃ",
+	"romaji": [
+      "nya"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "hira_nyu": {
+	"type": "hiragana",
+	"char": "にゅ",
+	"romaji": [
+      "nyu"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "hira_nyo": {
+	"type": "hiragana",
+	"char": "にょ",
+	"romaji": [
+      "nyo"
+	],
+	"tags": [
+	  "yoon",
+      "n_row"
+	]
+  },
+  "hira_hya": {
+	"type": "hiragana",
+	"char": "ひゃ",
+	"romaji": [
+      "hya"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "hira_hyu": {
+	"type": "hiragana",
+	"char": "ひゅ",
+	"romaji": [
+      "hyu"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "hira_hyo": {
+	"type": "hiragana",
+	"char": "ひょ",
+	"romaji": [
+      "hyo"
+	],
+	"tags": [
+	  "yoon",
+      "h_row"
+	]
+  },
+  "hira_mya": {
+	"type": "hiragana",
+	"char": "みゃ",
+	"romaji": [
+      "mya"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "hira_myu": {
+	"type": "hiragana",
+	"char": "みゅ",
+	"romaji": [
+      "myu"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "hira_myo": {
+	"type": "hiragana",
+	"char": "みょ",
+	"romaji": [
+      "myo"
+	],
+	"tags": [
+	  "yoon",
+      "m_row"
+	]
+  },
+  "hira_rya": {
+	"type": "hiragana",
+	"char": "りゃ",
+	"romaji": [
+      "rya"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "hira_ryu": {
+	"type": "hiragana",
+	"char": "りゅ",
+	"romaji": [
+      "ryu"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "hira_ryo": {
+	"type": "hiragana",
+	"char": "りょ",
+	"romaji": [
+      "ryo"
+	],
+	"tags": [
+	  "yoon",
+      "r_row"
+	]
+  },
+  "hira_gya": {
+	"type": "hiragana",
+	"char": "ぎゃ",
+	"romaji": [
+      "gya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_gyu": {
+	"type": "hiragana",
+	"char": "ぎゅ",
+	"romaji": [
+      "gyu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_gyo": {
+	"type": "hiragana",
+	"char": "ぎょ",
+	"romaji": [
+      "gyo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "g_row"
+	]
+  },
+  "hira_ja_z": {
+	"type": "hiragana",
+	"char": "じゃ",
+	"romaji": [
+	  "ja",
+	  "zya",
+      "jya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_ju_z": {
+	"type": "hiragana",
+	"char": "じゅ",
+	"romaji": [
+	  "ju",
+	  "zyu",
+      "jyu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_jo_z": {
+	"type": "hiragana",
+	"char": "じょ",
+	"romaji": [
+	  "jo",
+	  "zyo",
+      "jyo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "z_row"
+	]
+  },
+  "hira_bya": {
+	"type": "hiragana",
+	"char": "びゃ",
+	"romaji": [
+      "bya"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_byu": {
+	"type": "hiragana",
+	"char": "びゅ",
+	"romaji": [
+      "byu"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_byo": {
+	"type": "hiragana",
+	"char": "びょ",
+	"romaji": [
+      "byo"
+	],
+	"tags": [
+	  "yoon",
+	  "dakuon",
+      "b_row"
+	]
+  },
+  "hira_pya": {
+	"type": "hiragana",
+	"char": "ぴゃ",
+	"romaji": [
+      "pya"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_pyu": {
+	"type": "hiragana",
+	"char": "ぴゅ",
+	"romaji": [
+      "pyu"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  },
+  "hira_pyo": {
+	"type": "hiragana",
+	"char": "ぴょ",
+	"romaji": [
+      "pyo"
+	],
+	"tags": [
+	  "yoon",
+	  "handakuon",
+      "p_row"
+	]
+  }
+}
