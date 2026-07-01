@@ -1,5 +1,6 @@
 [gd_scene format=3 uid="uid://u4xarregbrq0"]
 
+[ext_resource type="PackedScene" uid="uid://km637v5trhf4" path="res://scenes/ui_components/SideTab.tscn" id="1_cks4k"]
 [ext_resource type="PackedScene" uid="uid://ddr2ui5icadjw" path="res://scenes/ui_components/FloatingPanel.tscn" id="1_vho1n"]
 [ext_resource type="PackedScene" uid="uid://boivgftqk2wq4" path="res://scenes/ui_components/DrawBox.tscn" id="2_cks4k"]
 
@@ -24,7 +25,14 @@ grow_horizontal = 2
 grow_vertical = 2
 theme_override_styles/panel = SubResource("StyleBoxFlat_xe8is")
 
+[node name="SideTab" parent="." unique_id=1600396370 instance=ExtResource("1_cks4k")]
+layout_mode = 1
+offset_right = -1519.0
+mouse_filter = 1
+mouse_behavior_recursive = 0
+
 [node name="FloatingPanel" parent="." unique_id=2056841838 instance=ExtResource("1_vho1n")]
+visible = false
 layout_mode = 0
 offset_left = 405.0
 offset_top = 160.0
@@ -45,6 +53,7 @@ horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="DrawBox" parent="." unique_id=107649633 instance=ExtResource("2_cks4k")]
+visible = false
 layout_mode = 1
 offset_left = 143.0
 offset_top = 74.0

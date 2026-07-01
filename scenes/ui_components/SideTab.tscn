@@ -1,0 +1,63 @@
+[gd_scene format=3 uid="uid://km637v5trhf4"]
+
+[ext_resource type="Script" uid="uid://bnf0t5lbcyi6a" path="res://scripts/ui_scripts/side_tab.gd" id="1_vi2vd"]
+[ext_resource type="StyleBox" uid="uid://dmvvwltj4076n" path="res://resources/themes/side_box_style_box_flat.tres" id="1_wakus"]
+[ext_resource type="PackedScene" uid="uid://db2bjrgxir2y6" path="res://scenes/ui_components/TabButton.tscn" id="1_wtljt"]
+[ext_resource type="StyleBox" uid="uid://pwlj0a1a7c0u" path="res://resources/themes/tab_button_selected_style_box_flat.tres" id="4_wakus"]
+
+[node name="SideTab" type="Panel" unique_id=1600396370 node_paths=PackedStringArray("start_button")]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_behavior_recursive = 2
+theme_override_styles/panel = ExtResource("1_wakus")
+script = ExtResource("1_vi2vd")
+start_button = NodePath("VBoxContainer/MenuButton")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1605239316]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.51100004
+anchor_right = 0.51100004
+anchor_bottom = 1.0
+offset_left = -143.66498
+offset_right = 144.87994
+grow_horizontal = 2
+grow_vertical = 2
+offset_transform_position = Vector2(0, 54)
+theme_override_constants/separation = 29
+
+[node name="Separator" type="Control" parent="VBoxContainer" unique_id=841567790]
+layout_mode = 2
+
+[node name="MenuButton" parent="VBoxContainer" unique_id=533705511 instance=ExtResource("1_wtljt")]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_styles/normal = ExtResource("4_wakus")
+text = "Dashboard"
+
+[node name="MenuButton2" parent="VBoxContainer" unique_id=968687897 instance=ExtResource("1_wtljt")]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Study"
+
+[node name="MenuButton3" parent="VBoxContainer" unique_id=1047954861 instance=ExtResource("1_wtljt")]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Stats"
+
+[node name="MenuButton4" parent="VBoxContainer" unique_id=1883084374 instance=ExtResource("1_wtljt")]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Templates"
+
+[node name="MenuButton5" parent="VBoxContainer" unique_id=1299238995 instance=ExtResource("1_wtljt")]
+layout_mode = 2
+size_flags_vertical = 3
+text = "Settings"
+
+[node name="Separator2" type="Control" parent="VBoxContainer" unique_id=72269282]
+custom_minimum_size = Vector2(0, 400)
+layout_mode = 2

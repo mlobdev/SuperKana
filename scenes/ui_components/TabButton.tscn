@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://db2bjrgxir2y6"]
+
+[ext_resource type="Script" uid="uid://cjf5hbeix3tc5" path="res://scripts/ui_scripts/menu_button.gd" id="1_f6max"]
+[ext_resource type="StyleBox" uid="uid://cutej5ayq8byo" path="res://resources/themes/tab_button_style_box_flat.tres" id="1_ypffs"]
+[ext_resource type="StyleBox" uid="uid://c7gaw1snej613" path="res://resources/themes/tab_button_hover_style_box_flat.tres" id="2_06eeg"]
+[ext_resource type="StyleBox" uid="uid://pwlj0a1a7c0u" path="res://resources/themes/tab_button_selected_style_box_flat.tres" id="3_xxtjm"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_22xsr"]
+
+[node name="TabButton" type="Button" unique_id=1589168886]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = ExtResource("1_ypffs")
+theme_override_styles/pressed = ExtResource("2_06eeg")
+theme_override_styles/hover = ExtResource("2_06eeg")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_22xsr")
+text = "Test Text"
+alignment = 0
+script = ExtResource("1_f6max")
+normal_tab_style = ExtResource("1_ypffs")
+active_tab_style = ExtResource("3_xxtjm")
