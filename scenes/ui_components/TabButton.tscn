@@ -23,3 +23,4 @@ alignment = 0
 script = ExtResource("1_f6max")
 normal_tab_style = ExtResource("1_ypffs")
 active_tab_style = ExtResource("3_xxtjm")
+tab_id = null

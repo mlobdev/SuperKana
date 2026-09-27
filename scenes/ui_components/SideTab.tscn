@@ -5,7 +5,10 @@
 [ext_resource type="PackedScene" uid="uid://db2bjrgxir2y6" path="res://scenes/ui_components/TabButton.tscn" id="1_wtljt"]
 [ext_resource type="StyleBox" uid="uid://pwlj0a1a7c0u" path="res://resources/themes/tab_button_selected_style_box_flat.tres" id="4_wakus"]
 
-[node name="SideTab" type="Panel" unique_id=1600396370 node_paths=PackedStringArray("start_button")]
+[sub_resource type="FontVariation" id="FontVariation_wakus"]
+variation_embolden = 0.6
+
+[node name="SideTab" type="Panel" unique_id=1600396370 node_paths=PackedStringArray("button_container", "start_button")]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
@@ -14,7 +17,8 @@ grow_vertical = 2
 mouse_behavior_recursive = 2
 theme_override_styles/panel = ExtResource("1_wakus")
 script = ExtResource("1_vi2vd")
-start_button = NodePath("VBoxContainer/MenuButton")
+button_container = NodePath("VBoxContainer/ButtonsContainer")
+start_button = NodePath("VBoxContainer/ButtonsContainer/MenuButton")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1605239316]
 layout_mode = 1
@@ -30,34 +34,97 @@ offset_transform_position = Vector2(0, 54)
 theme_override_constants/separation = 29
 
 [node name="Separator" type="Control" parent="VBoxContainer" unique_id=841567790]
+custom_minimum_size = Vector2(0, 26.155)
 layout_mode = 2
+mouse_filter = 2
 
-[node name="MenuButton" parent="VBoxContainer" unique_id=533705511 instance=ExtResource("1_wtljt")]
+[node name="Label" type="Label" parent="VBoxContainer" unique_id=1146957155]
 layout_mode = 2
+theme_override_fonts/font = SubResource("FontVariation_wakus")
+theme_override_font_sizes/font_size = 36
+text = "Super Kana"
+vertical_alignment = 1
+
+[node name="Separator4" type="Control" parent="VBoxContainer" unique_id=87834821]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="ButtonsContainer" type="Control" parent="VBoxContainer" unique_id=393448578]
+layout_mode = 2
+mouse_filter = 1
+
+[node name="MenuButton" parent="VBoxContainer/ButtonsContainer" unique_id=533705511 instance=ExtResource("1_wtljt")]
+layout_mode = 0
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_top = 29.0
+offset_right = 288.0
+offset_bottom = 97.0
+grow_horizontal = 1
+grow_vertical = 1
 size_flags_vertical = 3
 theme_override_styles/normal = ExtResource("4_wakus")
 text = "Dashboard"
+tab_id = 0
 
-[node name="MenuButton2" parent="VBoxContainer" unique_id=968687897 instance=ExtResource("1_wtljt")]
-layout_mode = 2
+[node name="MenuButton2" parent="VBoxContainer/ButtonsContainer" unique_id=968687897 instance=ExtResource("1_wtljt")]
+layout_mode = 0
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_top = 126.0
+offset_right = 288.0
+offset_bottom = 194.0
+grow_horizontal = 1
+grow_vertical = 1
 size_flags_vertical = 3
 text = "Study"
+tab_id = 1
 
-[node name="MenuButton3" parent="VBoxContainer" unique_id=1047954861 instance=ExtResource("1_wtljt")]
-layout_mode = 2
+[node name="MenuButton3" parent="VBoxContainer/ButtonsContainer" unique_id=1047954861 instance=ExtResource("1_wtljt")]
+layout_mode = 0
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_top = 223.0
+offset_right = 288.0
+offset_bottom = 292.0
+grow_horizontal = 1
+grow_vertical = 1
 size_flags_vertical = 3
 text = "Stats"
+tab_id = 2
 
-[node name="MenuButton4" parent="VBoxContainer" unique_id=1883084374 instance=ExtResource("1_wtljt")]
-layout_mode = 2
+[node name="MenuButton4" parent="VBoxContainer/ButtonsContainer" unique_id=1883084374 instance=ExtResource("1_wtljt")]
+layout_mode = 0
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_top = 321.0
+offset_right = 288.0
+offset_bottom = 389.0
+grow_horizontal = 1
+grow_vertical = 1
 size_flags_vertical = 3
 text = "Templates"
+tab_id = 3
 
-[node name="MenuButton5" parent="VBoxContainer" unique_id=1299238995 instance=ExtResource("1_wtljt")]
-layout_mode = 2
+[node name="MenuButton5" parent="VBoxContainer/ButtonsContainer" unique_id=1299238995 instance=ExtResource("1_wtljt")]
+layout_mode = 0
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_top = 418.0
+offset_right = 288.0
+offset_bottom = 487.0
+grow_horizontal = 1
+grow_vertical = 1
 size_flags_vertical = 3
 text = "Settings"
+tab_id = 4
 
 [node name="Separator2" type="Control" parent="VBoxContainer" unique_id=72269282]
 custom_minimum_size = Vector2(0, 400)
 layout_mode = 2
+mouse_filter = 2

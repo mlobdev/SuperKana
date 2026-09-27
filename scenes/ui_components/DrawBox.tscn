@@ -10,4 +10,3 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_mqdxf")
 canvas_color = Color(0.2, 0.25490198, 0.33333334, 1)
-pencil_size = null

@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://ycsp2typnyn"]
+
+[ext_resource type="Script" uid="uid://1fh08utdbwo4" path="res://scripts/ui_scripts/auto_wrap_label.gd" id="1_fgdxk"]
+
+[node name="CharSample" type="Control" unique_id=1878368734]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="." unique_id=64687443]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_font_sizes/font_size = 610
+text = " わ"
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("1_fgdxk")

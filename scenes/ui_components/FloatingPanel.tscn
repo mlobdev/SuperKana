@@ -1,17 +1,8 @@
 [gd_scene format=3 uid="uid://ddr2ui5icadjw"]
 
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_xe8is"]
-bg_color = Color(0.11764706, 0.16078432, 0.23137255, 1)
-border_blend = true
-corner_radius_top_left = 80
-corner_radius_top_right = 80
-corner_radius_bottom_right = 80
-corner_radius_bottom_left = 80
-shadow_color = Color(0, 0, 0, 0.11764706)
-shadow_size = 28
-shadow_offset = Vector2(0, 8)
+[ext_resource type="StyleBox" uid="uid://dy7mnoarbwxu8" path="res://resources/themes/floating_panel.tres" id="1_28qlb"]
 
 [node name="Panel" type="Panel" unique_id=2076241743]
 offset_right = 1152.0
 offset_bottom = 646.0
-theme_override_styles/panel = SubResource("StyleBoxFlat_xe8is")
+theme_override_styles/panel = ExtResource("1_28qlb")

@@ -3,6 +3,7 @@
 [ext_resource type="PackedScene" uid="uid://km637v5trhf4" path="res://scenes/ui_components/SideTab.tscn" id="1_cks4k"]
 [ext_resource type="PackedScene" uid="uid://ddr2ui5icadjw" path="res://scenes/ui_components/FloatingPanel.tscn" id="1_vho1n"]
 [ext_resource type="PackedScene" uid="uid://boivgftqk2wq4" path="res://scenes/ui_components/DrawBox.tscn" id="2_cks4k"]
+[ext_resource type="PackedScene" uid="uid://dssmtmfh5tupv" path="res://scenes/user_scenes/TemplateCreator.tscn" id="4_nbxn2"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_xe8is"]
 bg_color = Color(0.05882353, 0.09019608, 0.16470589, 1)
@@ -15,7 +16,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="Panel" type="Panel" parent="." unique_id=609887661]
+[node name="BackgroundPanel" type="Panel" parent="." unique_id=609887661]
 z_index = -50
 layout_mode = 1
 anchors_preset = 15
@@ -34,10 +35,10 @@ mouse_behavior_recursive = 0
 [node name="FloatingPanel" parent="." unique_id=2056841838 instance=ExtResource("1_vho1n")]
 visible = false
 layout_mode = 0
-offset_left = 405.0
-offset_top = 160.0
-offset_right = 1021.0
-offset_bottom = 487.0
+offset_left = 454.0
+offset_top = 56.0
+offset_right = 1070.0
+offset_bottom = 383.0
 
 [node name="Label" type="Label" parent="FloatingPanel" unique_id=110948529]
 layout_mode = 1
@@ -55,8 +56,12 @@ vertical_alignment = 1
 [node name="DrawBox" parent="." unique_id=107649633 instance=ExtResource("2_cks4k")]
 visible = false
 layout_mode = 1
-offset_left = 143.0
-offset_top = 74.0
-offset_right = -497.0
-offset_bottom = -62.0
+offset_left = 638.0
+offset_top = 23.0
+offset_right = -258.0
+offset_bottom = -33.0
+canvas_size = Vector2i(1024, 1024)
 erase_size = 16
+
+[node name="TemplateCreator" parent="." unique_id=779558967 instance=ExtResource("4_nbxn2")]
+layout_mode = 1

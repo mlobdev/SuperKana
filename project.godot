@@ -18,7 +18,6 @@ config/name="Super Kana"
 run/main_scene="res://scenes/user_scenes/TestScene.tscn"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 run/max_fps=60
-config/icon="res://icon.svg"
 
 [autoload]
 

@@ -19,7 +19,8 @@ func _ready():
 var last_mouse_pos: Vector2i
 
 func _process(_delta: float) -> void:
-	var mouse_pos := Vector2i((get_global_mouse_position() - global_position).round())
+	# It is very important to keep this node size property the same ascanvas_size property
+	var mouse_pos := Vector2i((get_global_mouse_position()-global_position).round())
 
 	if Input.is_action_just_pressed("click"):
 		draw_point(mouse_pos, paint_size, paint_color)
@@ -73,7 +74,7 @@ func draw_point(paint_vector : Vector2i, stroke_size : int, stroke_color : Color
 	var radius : int = int(stroke_size*0.5);
 	for y in range(-radius, radius + 1):
 		for x in range(-radius, radius + 1):
-			# Mantener forma circular
+			# Keep circular form
 			if x * x + y * y > radius * radius:
 				continue
 			var paint_pixel : Vector2i = paint_vector + Vector2i(x, y)

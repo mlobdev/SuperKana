@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://b46aovduwmlxb"]
+
+[ext_resource type="StyleBox" uid="uid://dy7mnoarbwxu8" path="res://resources/themes/floating_panel.tres" id="1_bsoti"]
+[ext_resource type="StyleBox" uid="uid://dld7gtr0dvdtf" path="res://resources/themes/floating_panel_var_clear.tres" id="2_euf5o"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_jqg08"]
+
+[node name="FloatingButton" type="Button" unique_id=828489001]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = ExtResource("1_bsoti")
+theme_override_styles/pressed = ExtResource("2_euf5o")
+theme_override_styles/hover = ExtResource("2_euf5o")
+theme_override_styles/focus = SubResource("StyleBoxEmpty_jqg08")

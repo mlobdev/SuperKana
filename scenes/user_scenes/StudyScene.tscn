@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://c1mhwb2guglm7"]
+
+[ext_resource type="Script" uid="uid://c4cyxnr4gsmua" path="res://scripts/managers/study_manager.gd" id="1_rhnd2"]
+[ext_resource type="PackedScene" uid="uid://boivgftqk2wq4" path="res://scenes/ui_components/DrawBox.tscn" id="1_sw5uf"]
+
+[node name="StudyScene" type="Control" unique_id=859459544]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_rhnd2")
+
+[node name="DrawBox" parent="." unique_id=107649633 instance=ExtResource("1_sw5uf")]
+layout_mode = 1
+offset_left = 788.0
+offset_top = 33.0
+offset_right = -108.0
+offset_bottom = -23.0
+canvas_size = Vector2i(1024, 1024)
